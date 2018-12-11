@@ -1,0 +1,23 @@
+{
+  "name": "e2e-with-testcafe",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "e2e": "testcafe chrome ./e2e",
+    "test": "npm run e2e"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmabaye/e2e-with-testcafe.git"
+  },
+  "author": "Emmanuel Abaye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmabaye/e2e-with-testcafe/issues"
+  },
+  "homepage": "https://github.com/emmabaye/e2e-with-testcafe#readme",
+  "devDependencies": {
+    "testcafe": "^0.23.2",
+    "typescript": "^3.2.2"
+  }
+}
