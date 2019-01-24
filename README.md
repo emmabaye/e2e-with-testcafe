@@ -1,5 +1,5 @@
 # e2e-with-testcafe
-Demonstrating End-to-End tests with Testcafe and \Typescript
+Demonstrating End-to-End tests with Testcafe and<br>Typescript
 
 ### Prerequisites
 - Node.js
